@@ -18,3 +18,7 @@ function loadingBar(number){
   }
 
  } 
+loadingBar(30);
+// Output:
+// 100% Complete!
+// [%%%%%%%%%%]
